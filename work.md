@@ -1,20 +1,24 @@
 ---
 layout: work
-title: Work
+title: Robots
 slug: /work
 items:
   - title: Robot Kebbi
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/kebbi.png
       alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    description: Kebbi is a robot developed by NUWA Robotics. Our team uses Java to build its core functionalities, focusing on a companion app that includes features like depression detection, cognitive assessment, and healthcare support.
   - title: Robot Temi
     image:
-      src: /assets/img/work/sand.png
+      src: /assets/img/work/temi.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: Temi is a service robot developed by Roboteam, known for its advanced navigation capabilities. I work with Temi to integrate social features and mobility functions, utilizing its sensors to create practical applications. My role also includes deploying Temi effectively in environments such as elderly care centers and hospital nursing wards.
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+Below are the details of the robots I've developed and worked with at NTU:
+
+
+
+
 <br />
 <br />
