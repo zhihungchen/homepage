@@ -14,14 +14,16 @@ header:
     - name: Home
       slug: /
     - name: Work
+    - name: Projects
     - name: Blog
+    
 
 footer:
   show_powered_by: true
   contact:
     - type: email
       name: Email
-      value: zhihungchen@gmail.com
+      value: chihhung1999@ntu.edu.tw
     - type: wechat
       value: andrewchen373
       link: "#"
@@ -68,3 +70,5 @@ exclude:
 
 # Used for defeating caching
 version: 1
+
+
