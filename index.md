@@ -28,10 +28,10 @@ Before joining NTU, I was a part-time research assistant at National Cheng Kung 
 
 <h2>Skills</h2>
 <ul>
-    <li><strong>Programming Languages:</strong> Python, Java, C++</li>
-    <li><strong>Frameworks and Libraries:</strong> ROS, Flutter, TensorFlow</li>
-    <li><strong>Tools:</strong> MongoDB, Docker, Git</li>
-    <li><strong>Robotics:</strong> Human-Robot Interaction, NLP, Sensor Integration</li>
+    <li><strong>Programming Languages:</strong> Python, Java, C/C++</li>
+    <li><strong>Frameworks and Libraries:</strong> ROS, Flutter, Flask</li>
+    <li><strong>Tools:</strong> MATLAB, SolidWorks, AutoCAD, Android Studio, Git</li>
+    <li><strong>Interests:</strong> Human-Robot Interaction, NLP, Mechatronics</li>
 </ul>
 
 

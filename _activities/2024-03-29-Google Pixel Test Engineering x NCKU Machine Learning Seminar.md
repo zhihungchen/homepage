@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Flutter APP"
-date:   2019-10-26 10:00:40
+title:  "Google Pixel Test Engineering x NCKU Machine Learning Seminar"
+date:   2024-03-29 
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
