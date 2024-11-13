@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Flutter_app"
-date:   2019-10-26 10:00:40
+title:  "Future tech"
+date:   2024-03-29 
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
-permalink: /projects/flutter-application/
 ---
 
-<img src="{{ "/assets/img/projects/figure.pptx.png" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
