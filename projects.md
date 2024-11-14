@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/projects/screenshot.jpg
     description: Supervised by Dr. Ming-Jang Chiu
-    url: /projects/
+    url: /projects/ios-application/
 
   - title: A Mobile Device-based Automatic AI Assessment for Rapid Screening of Language Abnormalities Using Chinese Spontaneous Speech
     image:
