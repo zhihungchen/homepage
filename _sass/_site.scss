@@ -1,8 +1,10 @@
 .profile-pic {
   float: right;
   width: 202px;
-  border: #ccc 1px solid;
+  //border: #ccc 1px solid;
+  border: 2px solid #e0e0e0;
   margin-left: 20px;
+  border-radius: 5px;
 
   @include media-query($on-mobile) {
     float: none;
@@ -74,5 +76,34 @@
     width: 160px;
     height: 160px;
     border: none;
+  }
+}
+
+.horizontal-layout {
+  display: flex;
+  /* 啟用 Flexbox 進行水平排列 */
+  justify-content: space-between;
+  /* 子項目之間的間距均勻分布 */
+  gap: 20px;
+  /* 控制區塊之間的水平距離 */
+  align-items: flex-start;
+  /* 子項目對齊到頂部 */
+}
+
+section {
+  flex: 1;
+  /* 每個區塊平分空間 */
+  padding: 10px;
+  box-sizing: border-box;
+  /* 確保 padding 不影響總寬度 */
+}
+
+/* 響應式設計：在小螢幕上改為垂直排列 */
+@media (max-width: 768px) {
+  .horizontal-layout {
+    flex-direction: column;
+    /* 改為垂直排列 */
+    gap: 10px;
+    /* 縮小垂直間距 */
   }
 }
