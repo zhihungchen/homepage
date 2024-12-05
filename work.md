@@ -30,7 +30,7 @@ items:
     description: This project aims to build a Companion Healthcare Aid Robot Manager – CHARM to provide essential support functions for the elderly suffering from chronic diseases, cognitive impairments, emotional disorders, and the general population. Utilizing robots' perception capabilities and natural interfaces, we design an autonomous service framework that focuses on the daily-life communication of the elderly.
     photos:
       - /assets/img/work/companion-1.jpg
-      - /assets/img/work/companion-2.png
+      - /assets/img/work/eNurse.png
     category: projects
 
   - title: Project CRUSH - supervised by Prof. Li-Chen Fu
